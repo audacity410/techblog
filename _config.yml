@@ -16,10 +16,10 @@ timezone: America/New_York
 
 title: blackops.dev # the main title
 
-tagline: decoding tech, cloud, & automation # it will display as the sub-title
+tagline: deciphering tech, cloud, & automation # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  blackops missions to decode technology, cloud and automation
+  black op missions to decipher technology, cloud and automation
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
